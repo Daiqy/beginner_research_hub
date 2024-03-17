@@ -1,4 +1,4 @@
-# Beginner Papers
+# Paper List for Scene Representation and Reconstruction Research
 ## NeRF
 - [ECCV'20] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. \[[Paper](http://arxiv.org/abs/2003.08934)\]
 - [SIGGRAPH'22] Instant Neural Graphics Primitives with a Multiresolution Hash Encoding. \[[Paper](http://arxiv.org/abs/2201.05989)\]
