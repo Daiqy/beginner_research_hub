@@ -1,4 +1,4 @@
-# Paper List for Neural Rendering Research
+# Paper List for the Beginner
 ## 3D Representation
 ### NeRF
 - [ECCV'20] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. \[[Paper](http://arxiv.org/abs/2003.08934)\]
