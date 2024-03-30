@@ -1,5 +1,5 @@
 # Paper List for the Beginner
-## 3D Representation
+## Representation
 ### NeRF
 - [ECCV'20] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis. \[[Paper](http://arxiv.org/abs/2003.08934)\]
 - [SIGGRAPH'22] Instant Neural Graphics Primitives with a Multiresolution Hash Encoding. \[[Paper](http://arxiv.org/abs/2201.05989)\]
@@ -23,10 +23,10 @@
 - [CVPR'22] [Nvdiffrec] Extracting Triangular 3D Models, Materials, and Lighting From Images. \[[Paper](https://arxiv.org/abs/2111.12503)\]
 
 
-## 3D Reconstruction
+## Reconstruction
 - [NeurIPS'21] NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction. \[[Paper](http://arxiv.org/abs/2106.10689)\]
 
-## 3D Generation
+## Generation
 ### 3D-aware Image Synthesis
 - [CVPR'22] Efficient Geometry-aware 3D Generative Adversarial Networks. \[[Paper](https://arxiv.org/abs/2112.07945)\]
 
